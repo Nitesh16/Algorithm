@@ -1,2 +1,2 @@
 # 
-Certificate of Algorithm specialisation
+ Algorithm specialisation
